@@ -75,7 +75,7 @@
 
 ## 整合自定义导航栏与 emoji 插件
 
-如果你使用 [emoji 插件](plugins#emoji):
+如果你使用 [emoji 插件](plugins.md#emoji):
 
 ```html
 <!-- index.html -->
