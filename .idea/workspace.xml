@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcab706c-5ba0-41f2-97c8-0b468ae56157" name="Changes" comment="测试中文翻译">
-      <change afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+    <list default="true" id="bcab706c-5ba0-41f2-97c8-0b468ae56157" name="Changes" comment="更新文档连接">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -60,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706942673858</updated>
-      <workItem from="1711410086527" duration="3137000" />
+      <workItem from="1711410086527" duration="3852000" />
     </task>
     <task id="LOCAL-00001" summary="Docs init">
       <option name="closed" value="true" />
@@ -86,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711411303896</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="更新文档连接">
+      <option name="closed" value="true" />
+      <created>1711413264699</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711413264699</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +103,7 @@
     <MESSAGE value="Docs init" />
     <MESSAGE value="添加 CNAME" />
     <MESSAGE value="测试中文翻译" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试中文翻译" />
+    <MESSAGE value="更新文档连接" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新文档连接" />
   </component>
 </project>
