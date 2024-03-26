@@ -2,7 +2,7 @@
 
 # docsify <small>4.13.1</small>
 
-> A magical documentation site generator.
+> 一个神奇的文档站点生成工具。
 
 - Simple and lightweight
 - No statically built html files
